@@ -1,0 +1,13 @@
+.header__item {
+    padding: 5px 10px 5px 5px;
+}
+.header__wrapper {
+    margin-bottom: 5px;
+    display: flex;
+    border-bottom: 2px solid gray;
+    justify-content: space-around;
+}
+.header__item-top{
+    font-size: 24px;
+    font-weight: 900;
+}
